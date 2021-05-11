@@ -12,6 +12,6 @@ https://carinvid.github.io/FunPage/
 
 #### ScreenShot
 
-![](pics/ScreebS.jpg)
+![](pics/ScreenS.jpg)
 
 Made by Carolina Reedy
